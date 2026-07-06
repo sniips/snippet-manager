@@ -1,0 +1,26 @@
+{
+  "name": "sniips-snippet-manager",
+  "version": "1.0.0",
+  "description": "Snippet Manager organize, sync, and instantly insert your text snippets anywhere",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "snippet-manager",
+    "snippets",
+    "text-expander",
+    "productivity",
+    "organization",
+    "shortcuts",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Sniips",
+  "license": "ISC",
+  "homepage": "https://sniips.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sniips/snippet-manager.git"
+  }
+}
